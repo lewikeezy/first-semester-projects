@@ -1,0 +1,8 @@
+{
+    "total_products_sold": 82,
+    "total_orders": 34,
+    "top_product": {
+        "name": "Bread",
+        "units_sold": 24
+    }
+}
