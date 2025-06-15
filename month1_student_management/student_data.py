@@ -25,7 +25,7 @@ def view_students():
     """
     Print all the students in the list with their details.
     """
-    #Looping through the students list to print each student's details 
+    #Looping through the students list to check and print each student's details 
     if len(students) == 0:
         print("No students have been added yet.\n")
     else:

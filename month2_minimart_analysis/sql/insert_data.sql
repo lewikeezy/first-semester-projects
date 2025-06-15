@@ -2,11 +2,11 @@
 
 -- Insert sample customers
 INSERT INTO customers (name, email, join_date) VALUES
-('Alice Johnson', 'alice@example.com', '2024-01-15'),
-('Bob Smith', 'bob@example.com', '2024-02-10'),
-('Chidera Okafor', 'chidera@example.com', '2024-03-01'),
-('David Osei', 'david@example.com', '2024-03-18'),
-('Fatima Bello', 'fatima@example.com', '2024-04-05');
+('Michael Johnson', 'johnson@alt.com', '2024-01-15'),
+('Usian Bolt', 'bolt@alt.com', '2024-02-10'),
+('Asafa Powell', 'Powell@alt.com', '2024-03-01'),
+('Anthony Joshua', 'joshua@alt.com', '2024-03-18'),
+('Christiano Ronaldo', 'Ronaldo@alt.com', '2024-04-05');
 
 -- Insert sample products
 INSERT INTO products (product_name, category, price) VALUES
